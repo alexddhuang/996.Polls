@@ -10,9 +10,9 @@ We expect the **new manager** to fork a [996.ICU](https://github.com/996icu/996.
 
 ## 报名方式（Ways of Registration）
 
-任何一位 GitHub 用户都可以参加报名。报名方式：**Fork 本仓库，将自己的用户名和 GitHub 链接添加到[参选者](#参选者)列表**，如
+任何一位 GitHub 用户都可以参加报名。报名方式：**Fork 本仓库，将自己的用户名和 GitHub 链接添加到[参选者](#参选者candidates)列表**，如
 
-Any GitHub user can sign up. Registration method: **Fork this repo and add your username and GitHub link to the list of [candidates](#参选者)**, such as
+Any GitHub user can sign up. Registration method: **Fork this repo and add your username and GitHub link to the list of [candidates](#参选者candidates)**, such as
 
 ```
 - [alexddhuang](https://github.com/alexddhuang)
