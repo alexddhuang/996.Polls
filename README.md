@@ -1,5 +1,8 @@
 # 996.Polls
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 鉴于 [996icu](https://github.com/996icu) 长期没有上线，我们提议通过投票的方式选出一位更活跃的 GitHub 用户来管理 [996.ICU](https://github.com/996icu/996.ICU) 项目。
 
 Given that [996icu](https://github.com/996icu) has not been online for a long time, we propose to vote for a more active GitHub user to manage the [996.ICU](https://github.com/996icu/996.ICU) project.
