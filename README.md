@@ -2,7 +2,7 @@
 
 鉴于 [996icu](https://github.com/996icu) 长期没有上线，我们提议通过投票的方式选出一位更活跃的 GitHub 用户来管理 [996.ICU](https://github.com/996icu/996.ICU) 项目。
 
-Given that [996icu](https://github.com/996icu) has not been online for a long time, we propose to vote for a more active GitHub user to manage the (https://github.com/996icu/996.ICU) project.
+Given that [996icu](https://github.com/996icu) has not been online for a long time, we propose to vote for a more active GitHub user to manage the [996.ICU](https://github.com/996icu/996.ICU) project.
 
 我们期望**新的管理者**能够 fork 一个 [996.ICU](https://github.com/996icu/996.ICU) 分支，并呼吁大家以后把提交推到那个新分支。
 
