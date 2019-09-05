@@ -23,7 +23,7 @@ Any GitHub user can sign up. Registration method: **Fork this repo and add your 
 
 当参选者人数达到 **99** 人时，投票活动即正式开始。我们拟定届时使用 [gh-polls](https://github.com/apex/gh-polls) 在本仓库的 Issues 里进行投票。
 
-When the number of candidates reached **99**, the voting activity officially began. We plan to use [gh-polls](https://github.com/apex/gh-polls) to vote in the Issues section of this repo.
+When the number of candidates reaches **99**, the voting activity officially begins. We plan to use [gh-polls](https://github.com/apex/gh-polls) to vote in the Issues section of this repo.
 
 欢迎大家踊跃参与。
 
